@@ -17,3 +17,4 @@ if($flag && $giftApplicable){
  echo __('You are eligible for free gift.');?>&nbsp; rtrim($block->escapeUrl($block->getUrl('checkout/cart?fg=1')), '/') echo __('Add free gift to shopping bag.');
 }
 
+any help required:contact:nagrgk@gmail.com
